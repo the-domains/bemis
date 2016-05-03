@@ -1,0 +1,28 @@
+name: Bemis
+favicon: null
+layout_spectrum: 0.6264488447923213
+typography_spectrum: 0.7526569236069918
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.542512085288763
+  lightness: 0.6801549117080867
+  saturation: 0.16835489589720964
+  rhythmicContrast: 0.5415921739768237
+purpose: []
