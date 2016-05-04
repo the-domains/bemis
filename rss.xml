@@ -4,8 +4,15 @@
         <description><![CDATA[Todd Bemis :: Creative]]></description>
         <link>https://thegrid.ai/bemis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 13:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 13:42:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bemis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How high will it go...?]]></title>
+            <description><![CDATA[<article><h1>How high will it go...?</h1><p>Vestibulum dapibus sem id ipsum lacinia faucibus. Nunc tincidunt, est quis dictum egestas, lectus risus consectetur augue, vel consectetur erat felis quis sapien. Fusce consectetur convallis lorem, viverra faucibus nisl lacinia at. Proin felis turpis, molestie at feugiat sed, blandit eu nulla. Cras vitae tortor at risus varius ultrices sit amet sed lectus.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33ef789e-de12-4c4e-9daf-7335667f6d69.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bemis/how-high-will-it-go/index.html</link>
+            <guid isPermaLink="false">2eaad617-02b1-4642-997b-b38366b34503</guid>
+            <pubDate>Wed, 04 May 2016 13:42:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rocket]]></title>
             <description><![CDATA[<article><h1>rocket</h1><p>Vestibulum dapibus sem id ipsum lacinia faucibus. Nunc tincidunt, est quis dictum egestas, lectus risus consectetur augue, vel consectetur erat felis quis sapien. Fusce consectetur convallis lorem, viverra faucibus nisl lacinia at. Proin felis turpis, molestie at feugiat sed, blandit eu nulla. Cras vitae tortor at risus varius ultrices sit amet sed lectus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc68d09a434e4158880637552fe8bf7c92c597fc.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/bemis/0e2babbd-6c26-4955-8a35-695bb60239e2/index.html</link>
             <guid isPermaLink="false">0e2babbd-6c26-4955-8a35-695bb60239e2</guid>
             <pubDate>Tue, 03 May 2016 16:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trip to NYC]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33ef789e-de12-4c4e-9daf-7335667f6d69.jpg">]]></description>
-            <link>https://thegrid.ai/bemis/how-high-will-it-go/index.html</link>
-            <guid isPermaLink="false">2eaad617-02b1-4642-997b-b38366b34503</guid>
-            <pubDate>Tue, 03 May 2016 16:36:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
