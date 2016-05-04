@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Rich is here!'
-datePublished: '2016-05-04T13:44:43.097Z'
-dateModified: '2016-05-04T13:44:23.770Z'
+datePublished: '2016-05-04T13:46:54.993Z'
+dateModified: '2016-05-04T13:44:52.622Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-rich-is-here.md
 authors: []
 publisher:
   name: null
@@ -16,8 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-rich-is-here.md
-published: true
 url: rich-is-here/index.html
 _type: Article
 
