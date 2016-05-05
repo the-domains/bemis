@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Rich is here!'
-datePublished: '2016-05-04T13:46:54.993Z'
-dateModified: '2016-05-04T13:44:52.622Z'
+datePublished: '2016-05-05T17:27:39.417Z'
+dateModified: '2016-05-04T13:47:03.307Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-rich-is-here.md
