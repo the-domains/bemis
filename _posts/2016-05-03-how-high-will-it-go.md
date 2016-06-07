@@ -4,26 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Vestibulum dapibus sem id ipsum lacinia faucibus. Nunc tincidunt, est quis dictum egestas, lectus risus consectetur augue, vel consectetur erat felis quis sapien. Fusce consectetur convallis lorem, viverra faucibus nisl lacinia at. Proin felis turpis, molestie at feugiat sed, blandit eu nulla. Cras vitae tortor at risus varius ultrices sit amet sed lectus.'
-datePublished: '2016-05-04T13:42:04.925Z'
-dateModified: '2016-05-04T13:42:03.247Z'
-title: How high will it go...?
+description: ''
+datePublished: '2016-06-07T22:31:50.132Z'
+dateModified: '2016-06-07T22:29:32.237Z'
+title: ''
 author: []
 sourcePath: _posts/2016-05-03-how-high-will-it-go.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: how-high-will-it-go/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33ef789e-de12-4c4e-9daf-7335667f6d69.jpg)
-
-# How high will it go...?
-
-Vestibulum dapibus sem id ipsum lacinia faucibus. Nunc tincidunt, est quis dictum egestas, lectus risus consectetur augue, vel consectetur erat felis quis sapien. Fusce consectetur convallis lorem, viverra faucibus nisl lacinia at. Proin felis turpis, molestie at feugiat sed, blandit eu nulla. Cras vitae tortor at risus varius ultrices sit amet sed lectus.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ef42b2e-93ca-4a9c-9745-f43fb2f409e5.png)
