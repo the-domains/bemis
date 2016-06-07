@@ -4,7 +4,7 @@
         <description><![CDATA[Bemis]]></description>
         <link>https://thegrid.ai/bemis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 22:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 22:32:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bemis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/bemis/vestibulum-dapibus-sem-id-ipsum-lacinia-faucibus-nunc-tinci/index.html</link>
             <guid isPermaLink="false">ac5b1c88-163a-4699-bf82-5e9b26cdc503</guid>
             <pubDate>Tue, 07 Jun 2016 22:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How high will it go...?]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ef42b2e-93ca-4a9c-9745-f43fb2f409e5.png">]]></description>
-            <link>https://thegrid.ai/bemis/how-high-will-it-go/index.html</link>
-            <guid isPermaLink="false">2eaad617-02b1-4642-997b-b38366b34503</guid>
-            <pubDate>Tue, 07 Jun 2016 22:31:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ ]]></title>
@@ -54,6 +47,13 @@
             <link>https://thegrid.ai/bemis/rich-is-here/index.html</link>
             <guid isPermaLink="false">c9591b85-9e54-47f2-ad41-997f8381df82</guid>
             <pubDate>Tue, 07 Jun 2016 22:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How high will it go...?]]></title>
+            <description><![CDATA[<article><h1>How high will it go...?</h1><p>Vestibulum dapibus sem id ipsum lacinia faucibus. Nunc tincidunt, est quis dictum egestas, lectus risus consectetur augue, vel consectetur erat felis quis sapien. Fusce consectetur convallis lorem, viverra faucibus nisl lacinia at. Proin felis turpis, molestie at feugiat sed, blandit eu nulla. Cras vitae tortor at risus varius ultrices sit amet sed lectus.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33ef789e-de12-4c4e-9daf-7335667f6d69.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bemis/how-high-will-it-go/index.html</link>
+            <guid isPermaLink="false">2eaad617-02b1-4642-997b-b38366b34503</guid>
+            <pubDate>Wed, 04 May 2016 13:42:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
